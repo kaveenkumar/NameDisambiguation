@@ -1,5 +1,6 @@
 # NameDisambiguation
 Author Name Disambiguation by Clustering based on Deep Learned Pairwise Similarities
+
 Course: 6CP project in Applied Deep Learning
 Collaborator: Philipp Gnoyke
 
